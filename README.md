@@ -1,4 +1,4 @@
-To solve non-repeatable job run in an autoscale cluster.
+To solve running non-repeatable job in an autoscale cluster problem.
 
 
 Usage:
